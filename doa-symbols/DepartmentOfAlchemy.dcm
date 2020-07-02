@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 503398-1892
+D MicroSD SMT Push-Push 1.28mm height MicroSD SMT Push-Push 1.28mm height
+F http://www.molex.com/webdocs/datasheets/pdf/en-us//5033981892_MEMORY_CARD_SOCKET.pdf
+$ENDCMP
+#
+$CMP 504077-1891
+D Micro SD card Connector + detect switch Micro SD card Connector + detect switch
+$ENDCMP
+#
+$CMP PMV48XP,215
+D PMV48XP,215 P-Channel MOSFET, 3.5 A, 20 V, 3-Pin SOT-23 Nexperia
+F https://www.mouser.co.uk/datasheet/2/916/PMV48XP-1319000.pdf
+$ENDCMP
+#
+#End Doc Library

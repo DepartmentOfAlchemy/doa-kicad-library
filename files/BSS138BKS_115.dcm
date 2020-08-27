@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSS138BKS,115
+D Nexperia BSS138BKS,115 Dual N-channel MOSFET, 320 mA, 60 V BSS138BK, 6-Pin TSSOP
+K
+F https://assets.nexperia.com/documents/data-sheet/BSS138BKS.pdf
+$ENDCMP
+#
+#End Doc Library

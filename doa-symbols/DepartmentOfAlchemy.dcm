@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 35RASMT4BHNTRX
+D 35RASMT4BHNTRX
+F http://www.switchcraft.com/Drawings/35rasmt4bhntrx_cd.pdf
+$ENDCMP
+#
 $CMP 503398-1892
 D MicroSD SMT Push-Push 1.28mm height MicroSD SMT Push-Push 1.28mm height
 F http://www.molex.com/webdocs/datasheets/pdf/en-us//5033981892_MEMORY_CARD_SOCKET.pdf
@@ -7,6 +12,11 @@ $ENDCMP
 #
 $CMP 504077-1891
 D Micro SD card Connector + detect switch Micro SD card Connector + detect switch
+$ENDCMP
+#
+$CMP BSS138BKS,115
+D Nexperia BSS138BKS,115 Dual N-channel MOSFET, 320 mA, 60 V BSS138BK, 6-Pin TSSOP
+F https://assets.nexperia.com/documents/data-sheet/BSS138BKS.pdf
 $ENDCMP
 #
 $CMP PMV48XP,215

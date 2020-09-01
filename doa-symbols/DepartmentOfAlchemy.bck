@@ -33,4 +33,9 @@ D NOR Flash Nor
 F http://www.cypress.com/file/316661/download
 $ENDCMP
 #
+$CMP TXB0104DR
+D 4-Bit Bidirectional Voltage-Level Shifter with Auto Direction Sensing and +/-15 kV ESD Protect
+F http://www.ti.com/lit/gpn/txb0104
+$ENDCMP
+#
 #End Doc Library

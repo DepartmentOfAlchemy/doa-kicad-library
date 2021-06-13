@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PAM2861CBR
+D Step-down LED Driver 1MHz 40V 1A SOT89-5 DiodesZetex PAM2861CBR LED Driver IC, 6  40 V dc 1A 6-Pin SOT-89
+K
+F https://www.diodes.com/assets/Datasheets/PAM2861.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-S2-MINI-1-N4R2
+D WiFi Modules - 802.11 SMD module, ESP32-S2FN4R2 with 4 MB flash die and 2 MB PSRAM die inside, PCB antenna
+K
+F https://cz.mouser.com/datasheet/2/891/esp32_s2_mini_1_esp32_s2_mini_1u_datasheet_en-1928084.pdf
+$ENDCMP
+#
+#End Doc Library

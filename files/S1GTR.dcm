@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S1GTR
+D Diode Standard 400V 1A Surface Mount SMA (DO-214AC)
+K
+F https://www.digikey.com/product-detail/en/smc-diode-solutions/S1GTR/1655-1504-1-ND/6022949
+$ENDCMP
+#
+#End Doc Library

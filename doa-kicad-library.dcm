@@ -5,4 +5,9 @@ D Step-down LED Driver 1MHz 40V 1A SOT89-5 DiodesZetex PAM2861CBR LED Driver IC,
 F https://www.diodes.com/assets/Datasheets/PAM2861.pdf
 $ENDCMP
 #
+$CMP PTV09A-4020U-B103
+D Bourns 1 Gang Linear Carbon Potentiometer with a 6 mm Dia. Shaft, 10k, +/-20%, 0.05W, Linear PTV09A-4020U-B103
+F https://www.bourns.com/docs/product-datasheets/PTV09.pdf
+$ENDCMP
+#
 #End Doc Library
